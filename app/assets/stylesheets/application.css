@@ -13,3 +13,7 @@
  *= require_tree .
  *= require_self
  */
+
+ .col-sm-3 {
+  width: 100%!important;
+}
